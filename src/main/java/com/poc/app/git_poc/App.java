@@ -11,6 +11,9 @@ public class App
 		System.out.println( "senthil!" );
 	}
 	
+	public void sendMessage() {
+		//System
+	}
 	
     public static void main( String[] args )
     {
