@@ -11,9 +11,7 @@ public class App
 		System.out.println( "senthil!" );
 	}
 	
-	public void addsts (String data){
-		System.out.println( "senthil!" );
-	}
+	
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
